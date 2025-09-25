@@ -1,6 +1,6 @@
 ## !Warning!
 
-This project is entering its **SUNSET** stage as we embark on an exciting migration to our new [YouTrackDB](https://github.com/youtrackdb/youtrackdb) graph database. Stay tuned for upcoming announcements, detailed plans, and migration guidelines as the YTDB project unfolds.
+This project is entering its **SUNSET** stage as we embark on an exciting migration to our new [YouTrackDB](https://github.com/JetBrains/youtrackdb) graph database. Stay tuned for upcoming announcements, detailed plans, and migration guidelines as the YTDB project unfolds.
 
 
 # <a href="https://github.com/JetBrains/xodus/wiki"><img src="https://raw.githubusercontent.com/wiki/jetbrains/xodus/xodus.png" width=160></a>
